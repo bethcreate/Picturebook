@@ -1,0 +1,2 @@
+rootProject.name = "PictureActivity"
+include ':app'
